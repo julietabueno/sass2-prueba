@@ -1,0 +1,48 @@
+.header-footer, header, footer {
+  background-color: #eca50a;
+  width: 100%;
+  font-family: verdana;
+  font-size: 20px; }
+
+.header-footer, header, footer {
+  background-color: #eca50a;
+  width: 100%;
+  font-family: verdana;
+  font-size: 20px; }
+
+header nav {
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+  font-family: verdana; }
+
+.header-footer, header, footer {
+  background-color: #eca50a;
+  width: 100%;
+  font-family: verdana;
+  font-size: 20px; }
+
+section {
+  width: 100%; }
+  section article {
+    width: 100%; }
+    section article p {
+      font-family: verdana;
+      line-height: 1.5;
+      font-style: italic;
+      font-weight: bold;
+      text-align: "alinear-al-centro"; }
+
+.header-footer, header, footer {
+  background-color: #eca50a;
+  width: 100%;
+  font-family: verdana;
+  font-size: 20px; }
+
+footer {
+  display: flex;
+  justify-content: space-between; }
+
+* {
+  margin: 0;
+  padding: 0; }
